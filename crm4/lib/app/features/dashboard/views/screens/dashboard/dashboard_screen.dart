@@ -8,7 +8,6 @@ import 'package:crm4/app/shared_components/list_task_date.dart';
 import 'package:crm4/app/shared_components/responsive_builder.dart';
 import 'package:crm4/app/shared_components/search_field.dart';
 import 'package:crm4/app/shared_components/selection_button.dart';
-import 'package:crm4/app/shared_components/simple_selection_button.dart';
 import 'package:crm4/app/shared_components/simple_user_profile.dart';
 import 'package:crm4/app/shared_components/task_progress.dart';
 import 'package:crm4/app/shared_components/user_profile.dart';
